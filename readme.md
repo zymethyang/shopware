@@ -5,3 +5,5 @@
 2. replace <replace-your-path> with local path
 
 3. docker compose up -d
+
+4. composer install
